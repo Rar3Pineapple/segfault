@@ -1,0 +1,22 @@
+{
+    "name": "segmentation-fault",
+    "displayName": "Segmentation Fault",
+    "description": "Nothing to do with a segfault. A simple green theme with purple and red highlights.",
+    "version": "0.0.1",
+    "publisher": "pineapple",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Segmentation Fault",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Segmentation Fault-color-theme.json"
+            }
+        ]
+    }
+}
